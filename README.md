@@ -8,5 +8,11 @@ Repositório para projetos simples e didáticos do curso realizado na Udemy
 ## Calculadora IMC
 ..
 
-## Converso de moedas
+## Conversor de moedas
+..
+
+## Lista de Tarefas (TODO)
+..
+
+## Buscador de Gifs
 ..
