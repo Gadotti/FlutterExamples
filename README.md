@@ -3,7 +3,7 @@ Repositório para projetos simples e didáticos do curso realizado na Udemy
 > https://www.udemy.com/course/curso-completo-flutter-app-android-ios
 
 ## Contador de pessoas
-![alt text](https://github.com/Gadotti/FlutterExamples/blob/master/contadorpessoas/Print1.png "Lista de tarefas")
+![alt text](https://github.com/Gadotti/FlutterExamples/blob/master/contadorpessoas/Print1.png =250x)
 
 ![alt text](https://github.com/Gadotti/FlutterExamples/blob/master/contadorpessoas/Print2.png "Lista de tarefas")
 
