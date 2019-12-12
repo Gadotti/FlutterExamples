@@ -3,8 +3,7 @@ Repositório para projetos simples e didáticos do curso realizado na Udemy
 > https://www.udemy.com/course/curso-completo-flutter-app-android-ios
 
 ## Contador de pessoas
-<img src="https://github.com/Gadotti/FlutterExamples/blob/master/contadorpessoas/Print1.png" width="250" height="400">
-<img src="https://github.com/Gadotti/FlutterExamples/blob/master/contadorpessoas/Print2.png" width="250" height="400">
+![alt text](https://github.com/Gadotti/FlutterExamples/blob/master/contadorpessoas/Print1.png "Contador de Pessoas")
 
 ## Calculadora IMC
 ![alt text](https://github.com/Gadotti/FlutterExamples/blob/master/calculadoraimc/Print1.png "Calculadora IMC")
