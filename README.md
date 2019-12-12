@@ -4,6 +4,7 @@ Repositório para projetos simples e didáticos do curso realizado na Udemy
 
 ## Contador de pessoas
 ![alt text](https://github.com/Gadotti/FlutterExamples/blob/master/contadorpessoas/Print1.png "Contador de Pessoas")
+![alt text](https://github.com/Gadotti/FlutterExamples/blob/master/contadorpessoas/Print2.png "Contador de Pessoas")
 
 ## Calculadora IMC
 ![alt text](https://github.com/Gadotti/FlutterExamples/blob/master/calculadoraimc/Print1.png "Calculadora IMC")
