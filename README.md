@@ -22,10 +22,12 @@ Guia para iniciar o ambiente de desenvolvimento em uma nova máquina:
     > Extensions > Flutter
     > Extensions > Flutter Widget Snippets
 
-8. Comandos:
-    > Console > flutter create helloword
+8. Comandos úteis:
+    > Criar um App inicial: Console > flutter create helloword
 
-9. Dicas
-    > executar "flutter doctor" para ver o que não está funcionando
+    > Criar um App preparado para integração com FireBase: Console > flutter create --org br.com.*seu nome.projeto* -a java -i objc --androidx *nome do projeto*
+
+    > Ver o que não está funcionando na configuração e instalação do ambiente: Console > flutter doctor
 
     > Pressionar 'r' no terminal para fazer o 'hot reload'
+   

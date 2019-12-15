@@ -1,16 +1,6 @@
-# chat_online
+# Chat online
+Realiza a integração com Firebase para gravar e ler as mensagens enviadas.
+Também realiza a autenticação com o Google para autenticar os usuários logados no aplicativo.
+Necessita de do arquivo 'google-services.json' válido na pasta './Android/app/' para funcionar corretamente.
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![alt text](https://github.com/Gadotti/FlutterExamples/blob/master/chat_online/Screenshot_20191215-174306.png "Chat online")
