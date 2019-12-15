@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "649038339986",
+    "firebase_url": "https://flutterexamplechat.firebaseio.com",
+    "project_id": "flutterexamplechat",
+    "storage_bucket": "flutterexamplechat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:649038339986:android:92a35660cf66027a17eb4b",
+        "android_client_info": {
+          "package_name": "br.com.gadotti.chat_online"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "649038339986-vaspbob1h7u7ns0jlhel90d6hd0mi7gv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.gadotti.chat_online",
+            "certificate_hash": "bff705398f01199a1a9ae538e4ee56fcc5350fb5"
+          }
+        },
+        {
+          "client_id": "649038339986-91u27iiba0brepngns2s7mm93bf2r88d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMnhzuVoHlvN8CvQFAWCm1hl5e2AqT5YQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "649038339986-91u27iiba0brepngns2s7mm93bf2r88d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
