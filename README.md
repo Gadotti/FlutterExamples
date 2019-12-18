@@ -22,12 +22,35 @@ Guia para iniciar o ambiente de desenvolvimento em uma nova máquina:
     > Extensions > Flutter
     > Extensions > Flutter Widget Snippets
 
-8. Comandos úteis:
-    > Criar um App inicial: Console > flutter create helloword
+## Comandos e dicas importantes
 
-    > Criar um App preparado para integração com FireBase: Console > flutter create --org br.com.*seu nome.projeto* -a java -i objc --androidx *nome do projeto*
+**Ver o que não está funcionando na configuração e instalação do ambiente:** 
+> flutter doctor
 
-    > Ver o que não está funcionando na configuração e instalação do ambiente: Console > flutter doctor
+**Criar um app inicial:** 
+> flutter create helloword
 
-    > Pressionar 'r' no terminal para fazer o 'hot reload'
+**Criar um app para integração com FireBase:** 
+> flutter create --org br.com.*seu nome.projeto* -a java -i objc --androidx *nome do projeto*
+
+**Hot reload e restart:**
+> Pressionar 'r' no terminal para fazer o 'hot reload'
+
+> Pressionar SHIT+'r' no terminal para fazer o 'hot restart'
    
+## Erros e soluções
+
+* Exceção ao subir o app relacionado ao multDex após adicionar o módulo do cloud firebase.    
+**Solução:** No arquivo ./android/app/build.gradle, verifique se existe a propriedade *multiDexEnabled true*    
+Fonte: https://developer.android.com/studio/build/multidex
+
+    Dentro da **defaultConfig** tag
+
+        applicationId "br.com.seunome.seuprojeto"        
+        minSdkVersion 16
+        targetSdkVersion 28
+        versionCode flutterVersionCode.toInteger()
+        versionName flutterVersionName
+        testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
+        multiDexEnabled true    
+    
