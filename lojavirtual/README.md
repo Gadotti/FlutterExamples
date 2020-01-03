@@ -1,16 +1,24 @@
-# lojavirtual
+# Loja virtual
 
-A new Flutter project.
+Completa loja virtual, baseada em um template de loja de roupas (por isso os tamanhos na hora de escolher as bebidas [sorry]).
 
-## Getting Started
+## Funcionalidades
 
-This project is a starting point for a Flutter application.
+* Integração com Firebase
+* Página inicial em moisaco, com menu dinâmico ao realizar scroll;
+* Carrinho de compras;
+* Login e autenticação persistente;
+* Integração com discagem do celular;
+* Link para Google Maps;
+* Fucionalidade para acompanhamento dos pedidos em tempo real;
 
-A few resources to get you started if this is your first Flutter project:
+## Prints
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![alt text](https://github.com/Gadotti/FlutterExamples/blob/master/lojavirtual/Print1.png "")
+![alt text](https://github.com/Gadotti/FlutterExamples/blob/master/lojavirtual/Print2.png "")
+![alt text](https://github.com/Gadotti/FlutterExamples/blob/master/lojavirtual/Print3.png "")
+![alt text](https://github.com/Gadotti/FlutterExamples/blob/master/lojavirtual/Print4.png "")
+![alt text](https://github.com/Gadotti/FlutterExamples/blob/master/lojavirtual/Print5.png "")
+![alt text](https://github.com/Gadotti/FlutterExamples/blob/master/lojavirtual/Print6.png "")
+![alt text](https://github.com/Gadotti/FlutterExamples/blob/master/lojavirtual/Print7.png "")
+![alt text](https://github.com/Gadotti/FlutterExamples/blob/master/lojavirtual/Print8.png "")
