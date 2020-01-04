@@ -39,7 +39,7 @@ Guia para iniciar o ambiente de desenvolvimento em uma nova máquina:
 > Pressionar SHIT+'r' no terminal para fazer o 'hot restart'
 
 ## Ferramentas e sites úteis
-* FireBase: firebase.google.com/
+* FireBase: https://firebase.google.com/
 * Rive: https://rive.app/
 * Pexel: https://www.pexels.com/
 * FlatIcon: https://www.flaticon.com/
