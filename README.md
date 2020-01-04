@@ -37,6 +37,15 @@ Guia para iniciar o ambiente de desenvolvimento em uma nova máquina:
 > Pressionar 'r' no terminal para fazer o 'hot reload'
 
 > Pressionar SHIT+'r' no terminal para fazer o 'hot restart'
+
+## Ferramentas e sites úteis
+* FireBase: firebase.google.com/
+* Rive: https://rive.app/
+* Pexel: https://www.pexels.com/
+* FlatIcon: https://www.flaticon.com/
+* Material UI Colors: https://material-ui.com/pt/customization/color/
+* Material Pallete: https://material.io/design/color/the-color-system.html#tools-for-picking-colors
+* Material Design composição de cores: https://material.io/resources/color
    
 ## Erros e soluções
 
