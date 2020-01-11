@@ -12,3 +12,10 @@ Projeto que imita o app do Youtube para apresentar conceitos importantes de prog
 * Aplicação de Dependecy Injection
 * Integração com Youtube API do Google: https://console.developers.google.com/
 * Utilização de SharedPreferences. Um repositorio basico e simples do device que pode ser utilizado para armazenar os favoritos do App, por exemplo.
+
+## Prints
+
+![alt text](https://github.com/Gadotti/FlutterExamples/blob/master/fluttertube/print1.png "FlutterTube")
+![alt text](https://github.com/Gadotti/FlutterExamples/blob/master/fluttertube/print2.png "FlutterTube")
+![alt text](https://github.com/Gadotti/FlutterExamples/blob/master/fluttertube/print3.png "FlutterTube")
+![alt text](https://github.com/Gadotti/FlutterExamples/blob/master/fluttertube/print4.png "FlutterTube")
