@@ -46,6 +46,7 @@ Guia para iniciar o ambiente de desenvolvimento em uma nova máquina:
 * Material UI Colors: https://material-ui.com/pt/customization/color/
 * Material Pallete: https://material.io/design/color/the-color-system.html#tools-for-picking-colors
 * Material Design composição de cores: https://material.io/resources/color
+* Alteração de regras para o Firebase: https://firebase.google.com/docs/firestore/security/rules-conditions
    
 ## Erros e soluções
 
