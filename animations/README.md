@@ -11,3 +11,4 @@ Projeto simples para apresenta e testar conceitos avançados de animações de c
 
 ## Prints
 
+![alt text](https://github.com/Gadotti/FlutterExamples/blob/master/animations/Gif1.gif "")
